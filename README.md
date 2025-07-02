@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parsa</h1>
-<h3 align="center">A passionate frant-end developer from Iran</h3>
+<h3 align="center">A passionate front-end developer from Iran</h3>
 <img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
  - 💻My own personal site [https://github.com/parsaiiii/PersonalSite](https://github.com/parsaiiii/PersonalSite)
