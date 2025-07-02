@@ -4,7 +4,7 @@
 
  - 💻My own personal site [https://github.com/parsaiiii/PersonalSite](https://github.com/parsaiiii/PersonalSite)
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 📓Training Vue [Vue.jsTraining](https://github.com/parsaiiii/Vue.jsTraining)
 
